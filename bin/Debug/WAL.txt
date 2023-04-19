@@ -1,0 +1,456 @@
+Час проведення транзакції: 31.01.2022 15:33:21
+Код транзакції: select * from i_login('saed', 'erer'); 
+
+Час проведення транзакції: 31.01.2022 15:37:08
+Код транзакції: select * from u_login('asas', 'asas', 'fofo'); 
+
+Час проведення транзакції: 31.01.2022 15:41:09
+Код транзакції: select * from d_login('saed'); 
+
+Час проведення транзакції: 31.01.2022 16:39:09
+Код транзакції: select * from i_result('true'); 
+
+Час проведення транзакції: 31.01.2022 16:39:19
+Код транзакції: select * from u_result('1', '2'); 
+
+Час проведення транзакції: 31.01.2022 16:39:24
+Код транзакції: select * from d_result('2'); 
+
+Час проведення транзакції: 31.01.2022 16:51:13
+Код транзакції: select * from i_patient('фвфв', 'вввв', '1222', '11-11-2011'); 
+
+Час проведення транзакції: 31.01.2022 16:51:27
+Код транзакції: select * from u_patient('вввв', 'Л'ха', 'вввв', '1222', '11-11-2011'); 
+
+Час проведення транзакції: 31.01.2022 16:51:38
+Код транзакції: select * from u_patient('вввв', 'Леха', 'вввв', '1222', '11-11-2011'); 
+
+Час проведення транзакції: 31.01.2022 16:52:22
+Код транзакції: select * from d_patient('вввв'); 
+
+Час проведення транзакції: 31.01.2022 17:03:45
+Код транзакції: select * from i_medic('asdasd', 'adsadaaaa', 'qwerty', '12323', '5'); 
+
+Час проведення транзакції: 31.01.2022 17:04:00
+Код транзакції: select * from u_medic('qwerty', 'qqqqqqqqq', 'adsadaaaa', 'qwerty', '12323', '5'); 
+
+Час проведення транзакції: 31.01.2022 17:04:11
+Код транзакції: select * from d_medic('qwerty'); 
+
+Час проведення транзакції: 31.01.2022 17:21:43
+Код транзакції: select * from i_inspection('4', '6', 'фіфіфіфі', '4', '11.01.2022'); 
+
+Час проведення транзакції: 31.01.2022 17:22:43
+Код транзакції: select * from u_inspection('4', '4', '6', 'фффффф', '4', '11.01.2022'); 
+
+Час проведення транзакції: 31.01.2022 17:22:53
+Код транзакції: select * from d_inspection('4'); 
+
+Час проведення транзакції: 31.01.2022 17:28:20
+Код транзакції: select * from u_inspection('3', '3', '4', 'C:\Users\Yarik\Pictures\Warhammer\Titans.jpg', '4', '11.01.2022'); 
+
+Час проведення транзакції: 31.01.2022 17:28:55
+Код транзакції: select * from u_inspection('3', '4', '6', 'C:\Users\Yarik\Pictures\Warhammer\Titans.jpg', '4', '11.01.2022'); 
+
+Час проведення транзакції: 02.02.2022 19:08:24
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\28c1e185daecab49e9215fb999b5d95a.jpg, '3', '2022-02-02'); 
+
+Час проведення транзакції: 02.02.2022 19:10:10
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\28c1e185daecab49e9215fb999b5d95a.jpg, '2', '2022-02-02'); 
+
+Час проведення транзакції: 02.02.2022 19:10:16
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\28c1e185daecab49e9215fb999b5d95a.jpg, '2', '2022-02-02'); 
+
+Час проведення транзакції: 02.02.2022 19:10:21
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\28c1e185daecab49e9215fb999b5d95a.jpg, '4', '2022-02-02'); 
+
+Час проведення транзакції: 02.02.2022 19:11:52
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png, 3, '2022-02-02'); 
+
+Час проведення транзакції: 02.02.2022 19:12:09
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png, 4, '2022-02-02'); 
+
+Час проведення транзакції: 02.02.2022 19:13:55
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\a25e2fc90073a1ab4a82a9159aff273e.jpg, 4, '2022-02-02'); 
+
+Час проведення транзакції: 02.02.2022 19:17:36
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\a25e2fc90073a1ab4a82a9159aff273e.jpg, 2, 'System.Windows.Forms.TextBox, Text: 11-11-2011'); 
+
+Час проведення транзакції: 02.02.2022 19:25:23
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\a25e2fc90073a1ab4a82a9159aff273e.jpg, 3, 'System.Windows.Forms.TextBox, Text: 11-11-2011'); 
+
+Час проведення транзакції: 02.02.2022 19:28:08
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\a25e2fc90073a1ab4a82a9159aff273e.jpg, 2, 'System.Windows.Forms.TextBox, Text: 11-11-2021'); 
+
+Час проведення транзакції: 02.02.2022 19:30:55
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png, 3, '02-02-2022'); 
+
+Час проведення транзакції: 02.02.2022 19:31:15
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png, 2, '02-02-2022'); 
+
+Час проведення транзакції: 02.02.2022 19:31:21
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png, 2, '02-02-2022'); 
+
+Час проведення транзакції: 02.02.2022 19:31:24
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png, 3, '02-02-2022'); 
+
+Час проведення транзакції: 02.02.2022 19:31:25
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png, 3, '02-02-2022'); 
+
+Час проведення транзакції: 02.02.2022 19:31:27
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png, 4, '02-02-2022'); 
+
+Час проведення транзакції: 02.02.2022 19:34:57
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png', 3, '02-02-2022'); 
+
+Час проведення транзакції: 04.02.2022 18:06:52
+Код транзакції: select * from i_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\logo1.png', 3, '04-02-2022'); 
+
+Час проведення транзакції: 05.02.2022 16:29:01
+Код транзакції: select * from i_inspection('4', '0', 'openFileDialog1', 2, '05-02-2022'); 
+
+Час проведення транзакції: 05.02.2022 16:29:37
+Код транзакції: update inspection_table set confirmation = True where id = 6;
+
+Час проведення транзакції: 05.02.2022 16:30:09
+Код транзакції: select * from i_inspection('4', '0', 'openFileDialog1', 2, '05-02-2022'); 
+
+Час проведення транзакції: 05.02.2022 16:30:12
+Код транзакції: update inspection_table set confirmation = False where id = 6;
+
+Час проведення транзакції: 05.02.2022 16:38:17
+Код транзакції: select * from i_inspection('4', '0', 'C:\Users\Yarik\Pictures\SCP\Без названия.png', 3, '05-02-2022', False); 
+
+Час проведення транзакції: 05.02.2022 16:38:41
+Код транзакції: select * from i2_inspection('4', '0', 'C:\Users\Yarik\Pictures\SCP\Без названия.png', 4, '05-02-2022', True); 
+
+Час проведення транзакції: 05.02.2022 16:39:14
+Код транзакції: select * from i2_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\Без названия.png', 4, '05-02-2022', True); 
+
+Час проведення транзакції: 05.02.2022 16:40:29
+Код транзакції: select * from i2_inspection('4', '6', 'C:\Users\Yarik\Pictures\SCP\28c1e185daecab49e9215fb999b5d95a.jpg', 4, '05-02-2022', False); 
+
+Час проведення транзакції: 07.02.2022 14:30:27
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:36
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:37
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:37
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:38
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:38
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:38
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:38
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:38
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:38
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:30:39
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:31:10
+Код транзакції: update inspection_table set confirmation = True where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:31:13
+Код транзакції: update inspection_table set confirmation = False where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:34:11
+Код транзакції: update inspection_table set confirmation = False where id = 4;
+
+Час проведення транзакції: 07.02.2022 14:38:01
+Код транзакції: update inspection_table set confirmation = False where id = 3;
+
+Час проведення транзакції: 07.02.2022 15:20:48
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\SCP\a25e2fc90073a1ab4a82a9159aff273e.jpg', 2, '07-02-2022', False); 
+
+Час проведення транзакції: 07.02.2022 15:21:13
+Код транзакції: update inspection_table set confirmation = True where id = 12;
+
+Час проведення транзакції: 07.02.2022 18:08:11
+Код транзакції: select * from i2_inspection('11', '11', 'C:\Users\Yarik\Pictures\Pulmologic\07-02-2022-11.jpg', 3, '07-02-2022', True); 
+
+Час проведення транзакції: 10.02.2022 11:30:32
+Код транзакції: select * from i2_inspection('9', '6', 'C:\Users\Yarik\Pictures\Pulmologic\10-02-2022-9.jpg', 2, '10-02-2022', False); 
+
+Час проведення транзакції: 10.02.2022 11:30:40
+Код транзакції: select * from i2_inspection('13', '6', 'C:\Users\Yarik\Pictures\Pulmologic\10-02-2022-13.jpg', 3, '10-02-2022', False); 
+
+Час проведення транзакції: 28.03.2022 18:58:35
+Код транзакції: select * from i2_inspection('4', '0', 'C:\Users\Yarik\Pictures\Pulmologic\28-03-2022-4.jpg', 3, '28-03-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:11:44
+Код транзакції: select * from i2_inspection('4', '10', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:11:51
+Код транзакції: select * from i2_inspection('4', '10', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:14:54
+Код транзакції: select * from i2_inspection('6', '10', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-6.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:15:21
+Код транзакції: select * from i2_inspection('6', '10', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-6.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:15:44
+Код транзакції: select * from i2_inspection('9', '10', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-9.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:15:57
+Код транзакції: select * from i2_inspection('12', '10', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-12.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:16:48
+Код транзакції: update inspection_table set confirmation = True where id = 18;
+
+Час проведення транзакції: 21.05.2022 14:17:06
+Код транзакції: update inspection_table set confirmation = True where id = 22;
+
+Час проведення транзакції: 21.05.2022 14:17:13
+Код транзакції: update inspection_table set confirmation = True where id = 21;
+
+Час проведення транзакції: 21.05.2022 14:21:03
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:10
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:11
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:12
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:13
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:14
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:15
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:16
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:17
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:18
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:18
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:19
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:20
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:21
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:22
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:22
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:23
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:24
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:25
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:26
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:26
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:27
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:28
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:30
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:34
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:35
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:37
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:38
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:39
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:40
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:41
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:41
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:42
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:43
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:43
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:44
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:46
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:47
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:49
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:49
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:50
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:51
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:52
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:53
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:54
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:55
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:55
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:56
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:57
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 3, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:58
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:58
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:21:59
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:22:00
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-4.jpg', 4, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:40:11
+Код транзакції: select * from i2_inspection('11', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-11.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:40:39
+Код транзакції: select * from i2_inspection('13', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-13.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 21.05.2022 14:41:55
+Код транзакції: select * from i2_inspection('8', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-05-2022-8.jpg', 2, '21-05-2022', False); 
+
+Час проведення транзакції: 30.05.2022 14:51:47
+Код транзакції: select * from i2_inspection('11', '11', 'C:\Users\Yarik\Pictures\Pulmologic\30-05-2022-11.jpg', 2, '30-05-2022', False); 
+
+Час проведення транзакції: 05.06.2022 13:48:51
+Код транзакції: select * from i2_inspection('11', '9', 'C:\Users\Yarik\Pictures\Pulmologic\05-06-2022-11.jpg', 2, '05-06-2022', False); 
+
+Час проведення транзакції: 08.06.2022 10:16:38
+Код транзакції: select * from i2_inspection('8', '9', 'C:\Users\Yarik\Pictures\Pulmologic\08-06-2022-8.jpg', 5, '08-06-2022', False); 
+
+Час проведення транзакції: 08.06.2022 10:17:32
+Код транзакції: select * from i2_inspection('8', '9', 'C:\Users\Yarik\Pictures\Pulmologic\08-06-2022-8.jpg', 2, '08-06-2022', False); 
+
+Час проведення транзакції: 08.06.2022 11:11:10
+Код транзакції: select * from u_patient('', '', '', '', ''); 
+
+Час проведення транзакції: 08.06.2022 11:14:51
+Код транзакції: select * from i_result(''); 
+
+Час проведення транзакції: 08.06.2022 11:15:01
+Код транзакції: select * from u_result('', ''); 
+
+Час проведення транзакції: 19.06.2022 20:49:01
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-4.jpg', 2, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:00:31
+Код транзакції: select * from i2_inspection('9', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-9.jpg', 2, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:09:21
+Код транзакції: select * from i2_inspection('7', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-7.jpg', 2, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:09:55
+Код транзакції: select * from i2_inspection('7', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-7.jpg', 2, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:12:07
+Код транзакції: select * from i2_inspection('11', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-11.jpg', 2, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:13:54
+Код транзакції: select * from i2_inspection('9', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-9.jpg', 5, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:14:21
+Код транзакції: select * from i2_inspection('9', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-9.jpg', 5, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:14:51
+Код транзакції: select * from i2_inspection('9', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-9.jpg', 2, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:18:32
+Код транзакції: select * from i2_inspection('10', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-10.jpg', 2, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:19:01
+Код транзакції: select * from i2_inspection('10', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-10.jpg', 2, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:19:32
+Код транзакції: select * from i2_inspection('10', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-10.jpg', 5, '19-06-2022', False); 
+
+Час проведення транзакції: 19.06.2022 21:21:49
+Код транзакції: select * from i2_inspection('8', '9', 'C:\Users\Yarik\Pictures\Pulmologic\19-06-2022-8.jpg', 5, '19-06-2022', False); 
+
+Час проведення транзакції: 20.06.2022 20:31:20
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\20-06-2022-4.jpg', 5, '20-06-2022', False); 
+
+Час проведення транзакції: 21.06.2022 9:58:13
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-06-2022-4.jpg', 5, '21-06-2022', False); 
+
+Час проведення транзакції: 21.06.2022 11:09:36
+Код транзакції: select * from i2_inspection('4', '9', 'C:\Users\Yarik\Pictures\Pulmologic\21-06-2022-4.jpg', 5, '21-06-2022', False); 
+
